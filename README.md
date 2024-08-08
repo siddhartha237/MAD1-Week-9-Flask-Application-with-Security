@@ -2,9 +2,6 @@
 This Flask application is a basic user authentication system that demonstrates how to manage user login, logout, and access control for a protected dashboard.
 Overview:
 ---
-
-# Flask User Authentication System
-
 This is a simple Flask application that demonstrates a basic user authentication system. The app allows users to log in, access a protected dashboard, and log out. It uses **Flask-Login** for managing user sessions and **Flask-SQLAlchemy** for database interactions.
 
 ## Features
